@@ -20,3 +20,11 @@ func main() {
     }
 ```
     
+### Section for demonstrate the Rust programming.
+Here is a code paragraph, with Rust code inside.
+``` Rust
+fn main() {
+    println!("Hello, world!")
+}
+
+```
